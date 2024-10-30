@@ -18,5 +18,5 @@ Explore the interactive dashboards to see how data-driven decisions can enhance 
 
 ![Seattle_AirBNB](https://github.com/user-attachments/assets/1e5dafc5-f56b-4ce1-8d6f-3bc77210029c)
 
-**Excel File is greater than 25 MB. Hence cannot be uploaded**
+**Excel File is greater than 25 MB. Hence, cannot be uploaded**
 
