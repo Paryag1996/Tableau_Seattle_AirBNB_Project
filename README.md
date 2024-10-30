@@ -16,4 +16,5 @@ Explore the interactive dashboards to see how data-driven decisions can enhance 
 
 **Dashboard :**
 
-![Seattle_AirBNB](https://github.com/user-attachments/assets/8e0d5c58-11ac-46a4-9dc1-cd9143b8599d)
+![Seattle_AirBNB](https://github.com/user-attachments/assets/1e5dafc5-f56b-4ce1-8d6f-3bc77210029c)
+
